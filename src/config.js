@@ -7,7 +7,7 @@ const config = {
     db: {
         port: process.env.DB_PORT || 5432,
         username: process.env.DB_USER || 'postgres',
-        password: process.env.DB_PAS || 'Lolillo713+',
+        password: process.env.DB_PAS || 'luis159+',
         host: process.env.DB_HOST ||  'localhost',
         name: process.env.DB_NAME || 'products_crud'
     }
